@@ -1,2 +1,2 @@
-# badges2
-quality
+# Badges ⛄
+Todas as badges do discord com qualidade
